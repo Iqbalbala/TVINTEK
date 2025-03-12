@@ -452,12 +452,12 @@ https://raw.githubusercontent.com/Iqbalbala/TVINTEK/refs/heads/main/live2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/qurantv.png" group-title="IPTV",Al Quran Al Kareem 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sunnahtv.png" group-title="IPTV",SAUDI SUNNAH TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/muslimtv.png" group-title="IPTV",Muslim TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
