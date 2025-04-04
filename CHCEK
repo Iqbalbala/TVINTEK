@@ -18,7 +18,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/trans7.png",Trans 7
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://www.dailymotion.com/cdn/live/video/x8qckyq.m3u8?sec=nJNOfvYjSoMqe2oeen7Tv92aSKI6-zSV7Rfv6uAOqIgmSPYujVXt7ObYJKE_qSVU4tw3pSXG6eUVCZy-rrchDw&dmTs=157850&dmV1st=901eee35-5bf4-4de9-8ddd-575bd5aaea49
+https://live-b.cf.dmcdn.net/sec2(f-7TWfjkQDPPEKu1JsoteaTDROzJrRQ7hXQc9-glrdfniohr6wsdLVAoV-22QT6Pz2cWorlLJUhL3jOaONj8WeUIPJujNUrQKoc7LtURUPYzlZVYVRu8Xt0w3_7wl1g2)/dm/3/x8qckyq/s/live-720.m3u8
 
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/transtv.png",Trans TV 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
