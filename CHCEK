@@ -27,16 +27,10 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/trans7.png",Trans 7
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-https://d1abp075u76pbq.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+https://83.142.30.171:443/vip_3klp0es8/wg3piwEs/2705
 
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/transtv.png",Trans TV 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
-https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090227150_b344100_sleng.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/nettv.png" group-title="IPTV",NET
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -44,9 +38,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.m
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/rcti.png" group-title="IPTV",RCTI
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://83.142.30.171:443/vip_3klp0es8/wg3piwEs/2701
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/gtv.png" group-title="IPTV",GTV
 #EXTVLCOPT:http-user-agent=android-R+
@@ -54,9 +46,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/mnctv.png" group-title="IPTV",MNC TV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://83.142.30.171:443/vip_3klp0es8/wg3piwEs/2700
 
 #EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/inews.png" group-title="IPTV",iNews
 #EXTVLCOPT:http-user-agent=android-R+
