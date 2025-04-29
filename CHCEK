@@ -306,8 +306,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
 https://raw.githubusercontent.com/Iqbalbala/ch/refs/heads/main/Cnmx.m3u8
 
 #EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbo.png" group-title="IPTV",HBO
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://raw.githubusercontent.com/Iqbalbala/ch/refs/heads/main/HBO.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbohits.png" group-title="IPTV",HBO Hits
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
