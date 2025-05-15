@@ -1,4 +1,6 @@
 #EXTM3U billed-msg="INTEK IPTV"
+#EXTM3U x-tvg-url="https://www.dens.tv/sitemap.xml"
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrPbNUCXajBLtG5kbabacRbKZyktmbzs5WA&s" group-title="IPTV",RADIO O NINE 93 TANJUNGPINANG
 http://45.64.97.82:8086/stream?type=.mp3#.m3u8
@@ -31,9 +33,9 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/rcti.png" group-title="IPTV",RCTI
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/gtv.png" group-title="IPTV",GTV
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -77,13 +79,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tvri.png" group-title="IPTV",TVRI Nasional
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=10004-mp4a_96000_eng=20000.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/BTV.png" group-title="IPTV",BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+https://btv-poc.secureswiftcontent.com/han/lineardemo/rtmp10005hls/srtoutput/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/bs.png" group-title="IPTV",Berita Satu
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+https://beritasatu-poc.secureswiftcontent.com/han/lineardemo/rtmp10008hls/srtoutput/manifest.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/rtv.png" group-title="IPTV",RTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -113,14 +116,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tv2my.png" group-title="IPTV",TV2 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
 
-EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tv3my.png" group-title="IPTV",TV 3
-https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tv3my.png" group-title="IPTV",TV 3
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tv6my.png" group-title="IPTV",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529491_ico.png?ts=1654807307" group-title="IPTV",NTV7
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tv7my.png" group-title="IPTV",NTV7
+https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tv8my.png" group-title="IPTV",8TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -311,27 +314,27 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
 https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
 
-#EXTINF:0 tvg-id="ID" tvg-name="Cinemax" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/cinemax.png" group-title="IPTV",Cinemax
+EXTINF:0 tvg-id="ID" tvg-name="Cinemax" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/cinemax.png" group-title="IPTV",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbo.png" group-title="IPTV",HBO
+EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbo.png" group-title="IPTV",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbohits.png" group-title="IPTV",HBO Hits
+EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbohits.png" group-title="IPTV",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:0 tvg-id="ID" tvg-name="HBO Family" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbofam.png" group-title="IPTV",HBO Family
+EXTINF:0 tvg-id="ID" tvg-name="HBO Family" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbofam.png" group-title="IPTV",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbosig.png" group-title="IPTV",HBO Signature
+EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbosig.png" group-title="IPTV",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
@@ -404,14 +407,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tvrisport.png" group-title="IPTV",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sportstars.png" group-title="IPTV",Sports Star 1
+EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sportstars.png" group-title="IPTV",Sports Star 1
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sportstar2.png" group-title="IPTV",Sports Star 2
+EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sportstar2.png" group-title="IPTV",Sports Star 2
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -452,7 +455,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/truepre2.png" group-title="IPTV",EPL 1
+EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/truepre2.png" group-title="IPTV",EPL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/Jonjoni123/m3u8/master/tpf2.m3u8
