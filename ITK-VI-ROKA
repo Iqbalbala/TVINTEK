@@ -175,6 +175,11 @@ https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
 https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
 
+#EXTINF:-1 tvg-id="ChannelU" group-title="IPTV" tvg-logo="https://images.seeklogo.com/logo-png/46/2/mediacorp-logo-png_seeklogo-469712.png",M Live
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/astroawani.png" group-title="IPTV",Astro Awani HD
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
