@@ -138,7 +138,9 @@ https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tv7my.png" group-title="IPTV",NTV7
-https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tv8my.png" group-title="IPTV",8TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
