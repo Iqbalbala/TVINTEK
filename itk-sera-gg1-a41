@@ -31,6 +31,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_
 https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/rcti.png" group-title="IPTV",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; MiTV-MOSR4 Build/RTM5.220609.003) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/144.0.7559.133 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
