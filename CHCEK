@@ -5,7 +5,7 @@
 http://45.64.97.82:8086/stream?type=.mp3#.m3u8
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4#.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/RRI_Pro_1_Tanjungpinang_2023.svg/revision/latest?cb=20240309033431" group-title="IPTV",RRI PRO1 TANJUNGPINANG
+#EXTINF:-1 tvg-logo="https://radio-online.id/assets/image/radio/180/rri1-Tanjungpinang.png" group-title="IPTV",RRI PRO1 TANJUNGPINANG
 https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro1.mp3#.3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sctv.png" group-title="IPTV",SCTV
