@@ -298,7 +298,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
-https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mediampd/AXNHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/rockact.png" group-title="IPTV",ROCK ACTION
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
