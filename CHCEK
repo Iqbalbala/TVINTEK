@@ -33,25 +33,14 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-country="" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/rcti.png" group-title="IPTV",RCTI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/rcti.png" group-title="IPTV",RCTI
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/gtv.png" group-title="IPTV",GTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-country="" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/mnctv.png" group-title="IPTV",MNC TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/antv.png" group-title="IPTV",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7)
@@ -59,7 +48,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
-#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tvone.png" group-title="IPTV",TVOne/
+#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tvone.png" group-title="IPTV",TVOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 
@@ -80,11 +69,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w481242722_b3
 http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
 #EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/inews.png" group-title="IPTV",iNews
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tvri.png" group-title="IPTV",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
