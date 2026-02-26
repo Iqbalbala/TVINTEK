@@ -216,14 +216,14 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/zoomoo.png" group-title="IPTV",ZOO MOO ASIA
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/imc.png" group-title="IPTV",IMC 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/imc.png" group-title="IPTV",IMC 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/imc.png" group-title="IPTV",IMC
+EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/imc.png" group-title="IPTV",IMC
 https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/refs/heads/main/Imc.m3u8
 
 EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19989138_ico.png?ts=1680115454" group-title="IPTV",FLIK
@@ -352,22 +352,22 @@ EXTINF:0 tvg-id="ID" tvg-name="Cinemax" ch-number="" tvg-logo="https://raw.githu
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
-EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbo.png" group-title="IPTV",HBO
+#EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbo.png" group-title="IPTV",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
-EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbohits.png" group-title="IPTV",HBO Hits
+#EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbohits.png" group-title="IPTV",HBO Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
-EXTINF:0 tvg-id="ID" tvg-name="HBO Family" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbofam.png" group-title="IPTV",HBO Family
+#EXTINF:0 tvg-id="ID" tvg-name="HBO Family" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbofam.png" group-title="IPTV",HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
-EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbosig.png" group-title="IPTV",HBO Signature
+#EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hbosig.png" group-title="IPTV",HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
