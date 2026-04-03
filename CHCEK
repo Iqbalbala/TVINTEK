@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="INTEK IPTV"
+<#EXTM3U billed-msg="INTEK IPTV"
 #EXTM3U x-tvg-url="https://www.dens.tv/sitemap.xml"
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrPbNUCXajBLtG5kbabacRbKZyktmbzs5WA&s" group-title="IPTV",FM O NINE 93 TANJUNGPINANG
