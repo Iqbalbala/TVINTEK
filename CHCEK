@@ -43,6 +43,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 https://cdndirector.dailymotion.com/cdn/live/video/x8qckyq.m3u8?sec=ZmLw7ertaTt6EMcaRo20LA1DA8sn_Ky7pDBSS1p8TNf7TQIUYLrD8vx6fAvqVgq7CcLjR03QjefTE_OQ-zES9iD4o4l0QId7sGex31kLYYpfhfsuSY_RJW5JSuyX5xnv&dmTs=320013&dmV1st=67b39eae-d139-36c7-d30e-c5482d48837a
 
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/trans7.png",Trans 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://live.eu-north-1b.cf.dmcdn.net/sec2(Tv5wiInZeHwU4OMe7g7PdE6tDc35PhllgiTwO07Kon2kXCjfT4RFp9tCVob9_ta2_2YbkMfQT9YzmqbE5mvOE_wk32-td8id5dRnXh6biiYIkd6TLogS46GJ8uJAfjIS)/dm/3/x8qckyq/d/live-720.m3u8
+
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/transtv.png",Trans TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
