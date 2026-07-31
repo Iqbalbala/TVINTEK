@@ -39,6 +39,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/trans7.png",Trans 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://cdndirector.dailymotion.com/cdn/live/video/x8qckyq.m3u8?sec=ZmLw7ertaTt6EMcaRo20LA1DA8sn_Ky7pDBSS1p8TNf7TQIUYLrD8vx6fAvqVgq7CcLjR03QjefTE_OQ-zES9iD4o4l0QId7sGex31kLYYpfhfsuSY_RJW5JSuyX5xnv&dmTs=320013&dmV1st=67b39eae-d139-36c7-d30e-c5482d48837a
+
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/transtv.png",Trans TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
