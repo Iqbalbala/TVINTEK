@@ -9,7 +9,7 @@ https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080
 #EXTINF:-1 tvg-logo="https://radio-online.id/assets/image/radio/180/rri1-Tanjungpinang.png" group-title="IPTV",RRI PRO1 TANJUNGPINANG
 https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro1.mp3#.3u8
 
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" override-resolution="1280x720" type=""  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sctv.png" group-title="IPTV",SCTV
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" override-resolution="1280x720" input-format="mp4" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sctv.png" group-title="IPTV",SCTV
 #EXTVLCOPT:http-user-agent=Vidio/5.10.0 (Android; 10)
 #EXTVLCOPT:http-referrer=https://canal86.my.id/player/jw.php?id=sctvvid1
 https://tv.canal86.my.id/vidiofree/sctv1.m3u8
