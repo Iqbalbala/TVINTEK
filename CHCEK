@@ -10,13 +10,13 @@ https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080
 https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro1.mp3#.3u8
 
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" override-resolution="1280x720" input-format="mp4" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sctv.png" group-title="IPTV",SCTV
-#EXTVLCOPT:http-user-agent=Vidio/5.10.0 (Android; 10)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://canal86.my.id/player/jw.php?id=sctvvid1
 https://tv.canal86.my.id/vidiofree/sctv1.m3u8
 http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 
 #EXTINF:-1 track-selection="video:best" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/indosiar.png" group-title="IPTV",INDOSIAR
-#EXTVLCOPT:http-user-agentVidio/5.10.0 (Android; 10)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://canal86.my.id/player/?id=indosiarvid1
 https://tv.canal86.my.id/vidiofree/indosiar1.m3u8
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
